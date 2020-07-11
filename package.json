@@ -1,0 +1,22 @@
+{
+  "name": "awesome-jitsi",
+  "version": "1.0.0",
+  "description": "Awesome list of wonderful resource links for Jitsi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easyjitsi/awesome-jitsi.git"
+  },
+  "keywords": [
+    "Awesome"
+  ],
+  "author": "Easy Jitsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easyjitsi/awesome-jitsi/issues"
+  },
+  "homepage": "https://github.com/easyjitsi/awesome-jitsi#readme"
+}
