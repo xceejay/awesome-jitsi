@@ -12,7 +12,9 @@
 About this section. Optional. Keep this short and focus on the list.
 
 - [List item](http://example.com)
+  - [Subsection](http://example.com)
 - [List item](http://example.com)
+  - [Subsection](http://example.com)
 
 ## Another Section
 
