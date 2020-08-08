@@ -7,8 +7,8 @@
 - [Documentaion](#documentation)
 - [Installation](#installation)
 - [Security](#security)
-- [Services](#another-section)
-- [Testing](#section)
+- [Services](#services)
+- [Testing](#testing)
 - [Ux/Ui Modifications](#ux%2Fui-modifications)
 <!--- [Scaling](#another-section)-->
 
