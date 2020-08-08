@@ -19,6 +19,11 @@
 
 ### Installation
 
+Quick Installation For Jitsi in the cloud
+
+- [Jitsi Meet On Docker](https://github.com/jitsi/docker-jitsi-meet)
+- [Easy Jitsi Quick Start]("https://quickstart.easyjitsi.com)
+
 About this section. Optional. Keep this short and focus on the list.
 
 ### Security
