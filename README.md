@@ -21,17 +21,19 @@
 
 Quick Installation For Jitsi in the cloud
 
-- [Jitsi Meet On Docker](https://github.com/jitsi/docker-jitsi-meet)
-- [Easy Jitsi Quick Start](https://quickstart.easyjitsi.com)
-
-About this section. Optional. Keep this short and focus on the list.
+- [Jitsi Meet On Docker](https://github.com/jitsi/docker-jitsi-meet) - Jitsi Meet On Docker
+- [Easy Jitsi Quick Start](https://quickstart.easyjitsi.com) - Install Jitsi with One Line
 
 ### Security
 
-- [List item](http://example.com)
+About this section. Optional. Keep this short and focus on the list.
+
+- [E2E](https://jitsi.org/e2ee-in-jitsi/) - End To End Support for Jitsi Meet
 - [List item](http://example.com)
 
 ### Services
+
+About this section. Optional. Keep this short and focus on the list.
 
 - [Call Stats](http://example.com)
 - [List item](http://example.com)
@@ -44,6 +46,8 @@ About this section. Optional. Keep this short and focus on the list.
 - [KITE](https://github.com/webrtc/KITE) - Test engine designed to test WebRTC interoperability across browsers
 
 ### UX/UI Modifications
+
+About this section. Optional. Keep this short and focus on the list.
 
 ### Contribute
 
