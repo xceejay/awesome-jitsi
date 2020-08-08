@@ -35,8 +35,12 @@ About this section. Optional. Keep this short and focus on the list.
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [Call Stats](http://example.com)
-- [List item](http://example.com)
+- [Call Stats](https://callstats.io) - WebRTC Call Quality Management Solutions
+
+- [Jibris On Demand](https://jibrisondemand.com) - Autoscaling Jitsi Recorders(Jibri) In the Cloud On Demand
+- [Lindeas](https://callstats.io) - WebRTC Video Conferences With Jitsi Meet
+- [Rocket Chat](https://rocket.chat) - Free WebRTC Conferences With Jitsi Meet
+- [Veertly](https://www.veertly.com) - Interactive and engaging video-platform
 
 ### Testing
 
