@@ -1,6 +1,6 @@
 # Awesome Jitsi [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Awesome list of wonderful resource links for Jitsi
+> A curated list of wonderful resource links for Jitsi
 
 ## Contents
 
