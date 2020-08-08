@@ -29,7 +29,8 @@ Quick Installation For Jitsi in the cloud
 About this section. Optional. Keep this short and focus on the list.
 
 - [E2E](https://jitsi.org/e2ee-in-jitsi/) - End To End Support for Jitsi Meet
-- [List item](http://example.com)
+- [LDAP](https://github.com/jitsi/jitsi-meet/wiki/LDAP-Authentication)
+- [saslauthd](https://github.com/jitsi/jitsi-meet/wiki/LDAP-Authentication#ldap-authentication-for-jitsi-meet-via-cyrussaslauthd)
 
 ### Services
 
