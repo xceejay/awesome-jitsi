@@ -14,6 +14,8 @@
 
 ### Documentation
 
+Documentation for Jitsi Meet
+
 - [Jisti Handbook](https://github.com/jitsi/handbook) - Official Documentation
 - [Easy Jitsi Documentation](https://easyjitsi.com) - Premium Documentation For Jitsi
 
@@ -26,7 +28,7 @@ Quick Installation For Jitsi in the cloud
 
 ### Security
 
-About this section. Optional. Keep this short and focus on the list.
+Useful links about security in Jitsi Meet
 
 - [E2E](https://jitsi.org/e2ee-in-jitsi/) - End To End Support for Jitsi Meet
 - [LDAP2](https://github.com/jitsi/jitsi-meet/wiki/LDAP-Authentication)- LDAP2 Support for Jitsi Meet
@@ -34,7 +36,7 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### Services
 
-About this section. Optional. Keep this short and focus on the list.
+Solutions and Services For Jitsi Meet
 
 - [Call Stats](https://callstats.io) - WebRTC Call Quality Management Solutions
 
@@ -45,14 +47,14 @@ About this section. Optional. Keep this short and focus on the list.
 
 ### Testing
 
-About this section. Optional. Keep this short and focus on the list.
+Testing Suites and Testing Solutions For Jitsi Meet
 
 - [TestRTC](https://testrtc.com/tag/jitsi/) - WebRTC testing and monitoring using 1 to 1000 parallel browsers
 - [KITE](https://github.com/webrtc/KITE) - Test engine designed to test WebRTC interoperability across browsers
 
 ### UX/UI Modifications
 
-About this section. Optional. Keep this short and focus on the list.
+UX/Ui inspiration and Modifications for Jitsi Meet
 
 ### Contribute
 
