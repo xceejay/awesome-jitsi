@@ -41,7 +41,7 @@ Solutions and Services For Jitsi Meet
 
 - [Call Stats](https://callstats.io) - WebRTC Call Quality Management Solutions
 
-- [Jibris On Demand](https://jibrisondemand.com) - Autoscaling Jitsi Recorders(Jibri) In the Cloud On Demand
+- [Jibris On Demand](https://jibrisondemand.com) - Autoscaling Jitsi Live Streaming and Recording In the Cloud On Demand
 - [Lindeas](https://lindeas.com) - WebRTC Video Conferences With Jitsi Meet
 - [Rocket Chat](https://rocket.chat) - Free WebRTC Conferences With Jitsi Meet
 - [Veertly](https://www.veertly.com) - Interactive and engaging video-platform
