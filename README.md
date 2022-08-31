@@ -17,7 +17,7 @@
 Documentation for Jitsi Meet
 
 - [Jisti Handbook](https://github.com/jitsi/handbook) - Official Documentation
-- [Easy Jitsi Documentation](https://easyjitsi.com) - Premium Documentation For Jitsi
+- [Easy Jitsi Documentation](https://easyjitsi.com) - Documentation For Jitsi
 - [Jibri Tutorials](https://www.jibritutorials.com) - Documentation About Jitsi's Cloud Recording
 
 ### Installation
